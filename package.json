@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "extend": "^3.0.1",
-    "mam.tools.js": "^0.5.1"
+    "mam.tools.js": "git+https://git@github.com/TangleID/mam.tools.js.git#develop"
   },
   "devDependencies": {
     "browserify": "^16.2.2",
